@@ -1,6 +1,6 @@
 # Hi, I'm Kiran Kumar Sabhapathi 👋
 
-## Full Stack Product Engineer | Technical Lead
+## Full Stack Product Engineer | Technical Lead | 15+ Years Experience
 
 Building scalable SaaS platforms, APIs, and business applications using modern full-stack technologies.
 
@@ -10,18 +10,28 @@ Building scalable SaaS platforms, APIs, and business applications using modern f
 
 ### DVI Travel Platform
 
-Architecting and developing a production travel operations platform covering:
+Architecting and developing a production-grade travel operations platform covering:
 
 - Itinerary Management
-- Hotel Inventory
-- Vehicle Operations
+- Hotel Inventory & Supplier Integrations
+- Vehicle Operations & Costing Engine
 - Vendor Management
 - Booking Workflows
 - Reporting & Administration
 
-Tech Stack:
+**Tech Stack:** React • TypeScript • NestJS • Prisma • MySQL • AWS
 
-React • TypeScript • NestJS • Prisma • MySQL
+---
+
+## Key Achievements
+
+- 15+ years of software engineering experience
+- Technical Lead across multiple product and service organizations
+- Built and maintained production SaaS platforms
+- Architected large-scale travel operations systems
+- Expertise across React, Next.js, Node.js, NestJS, AWS, and MySQL
+- Experience leading distributed and remote engineering teams
+- Delivered full-stack applications from concept to production
 
 ---
 
@@ -85,13 +95,13 @@ Production travel operations platform supporting:
 - Booking Confirmation Workflows
 - Reporting & Operations Dashboard
 
-**Tech Stack:** React • TypeScript • NestJS • Prisma • MySQL
+**Tech Stack:** React • TypeScript • NestJS • Prisma • MySQL • AWS
 
 ---
 
 ### Gate Watch Platform
 
-Enterprise workflow and operations management platform.
+Enterprise workflow and operations management platform focused on business process automation and operational visibility.
 
 **Tech Stack:** TypeScript • Node.js • APIs • Business Automation
 
@@ -107,11 +117,13 @@ Full-stack business management and digital services platform.
 
 ## Professional Experience
 
-- 15+ Years in Software Development
 - Technical Lead
-- Full Stack Product Engineering
+- Full Stack Product Engineer
+- Solution Architect
+- SaaS Platform Development
 - System Design & Architecture
-- Agile & Remote Team Collaboration
+- Agile Delivery
+- Remote Team Collaboration
 
 ---
 
@@ -126,6 +138,8 @@ Full-stack business management and digital services platform.
 - Cloud-Based Applications
 - Third-Party Integrations
 - Technical Leadership
+- Performance Optimization
+- Database Design
 
 ---
 
@@ -134,6 +148,7 @@ Full-stack business management and digital services platform.
 - Senior Full Stack Engineer
 - Full Stack Product Engineer
 - Technical Lead
+- Lead Software Engineer
 - Software Architect
 - Remote Opportunities
 
